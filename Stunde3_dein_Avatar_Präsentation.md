@@ -14,6 +14,9 @@ slideOptions:
 
 # 3D Drucker-Kurs - Erstelle deinen eigenen Avatar
 
+[![hackmd-github-sync-badge](https://hackmd.io/clmYM_1YS0mz7zaZ-_U_zA/badge)](https://hackmd.io/clmYM_1YS0mz7zaZ-_U_zA)
+
+
 
 
 ---
@@ -39,6 +42,10 @@ Ein Avatar (Substantiv, maskulin; der Avatar) ist eine künstliche Person oder e
 ---
 
 ![Dr. Benx](https://yt3.ggpht.com/a/AATXAJyvkxrcM2EQVvWcrId_-Z7Np_spzTyWGViJA4MRRw=s900-c-k-c0xffffffff-no-rj-mo)
+
+---
+
+# Baue deinen eigenen Avatar!
 
 
 ---
@@ -113,3 +120,44 @@ Welche Form und Farbe haben die Augen? Groß oder Klein? Augenbrauen?
 --- 
 
 # Los gehts!
+
+--- 
+
+# Schritt 1: Der Kopf
+
+- Eckig oder Rund?
+    - Eckig ist viel Einfacher
+- 
+
+
+--- 
+
+# Schritt 2: Der Körper
+
+
+--- 
+
+# Schritt 3: Der Arme und Beine
+
+--- 
+
+# Schritt 4: Gegenstände für die Hand
+
+---
+
+# Fertig! Was jetzt?
+
+---
+
+# Ausdrucken!
+
+---
+
+# Bild abspeichern für Messenger, Profilphoto und mehr...
+
+
+
+
+
+
+
